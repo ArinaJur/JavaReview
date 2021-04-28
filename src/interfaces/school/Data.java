@@ -1,4 +1,4 @@
-package school;
+package interfaces.school;
 
 public class Data {
 
